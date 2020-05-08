@@ -1,4 +1,4 @@
-## A Short Intro!
+## A short Intro!
 
 I am a Ph.D. student at the [Department of Civil & Environmental Engineering at MSU](https://www.egr.msu.edu/cee/) and am also affiliated to the Environmental Science and Policy Program ([ESPP](https://environment.msu.edu/)).
 
