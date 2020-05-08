@@ -1,5 +1,8 @@
 ## Welcome to my page.
 
+I am a Ph.D. student at the [Department of Civil & Environmental Engineering at MSU] (https://www.egr.msu.edu/cee/) and am also affiliated to the Environmental Science and Policy Program ([ESPP](https://environment.msu.edu/)).
+
+
 You can use the [editor on GitHub](https://github.com/simplydipti/MyPage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
