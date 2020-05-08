@@ -2,14 +2,10 @@
 
 I am a Ph.D. student at the [Department of Civil & Environmental Engineering at MSU](https://www.egr.msu.edu/cee/) and am also affiliated to the Environmental Science and Policy Program ([ESPP](https://environment.msu.edu/)).
 
-
-You can use the [editor on GitHub](https://github.com/simplydipti/MyPage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ## A long Intro!
+I'm a fourth year Ph.D. student working with [Dr. Annick Anctil](https://www.egr.msu.edu/people/profile/anctilan) in the [Department of Civil & Environmental Engineering at MSU](https://www.egr.msu.edu/cee/). I got a Bachelors in Civil Engineering at [Government Engineering College Trichur](http://gectcr.ac.in/) and followed it up with a Masters in Environmental Engineering from [Indian Institute of Technology, Delhi](http://www.iitd.ac.in/). 
+My long-term goal is to focus on the sustainability of emerging energy options. In my Ph.D., I have been working on projects related to reusing end-of-life electric vehicle batteries, and the uranium fuel cycle. I want to extend my work on the environmental impacts of reusing end-of-life batteries to the full life-cycle and sustainability of transportation energy systems. I modeled the environmental impacts of the uranium extraction process in the US, which had not been modeled before. I followed this up by working on a methodology to model the long-term cost and environmental impacts of battery reuse and uranium fuel. I look to expand my methodology of coupling the techno-economic and environmental assessment with system dynamics to other energy options as well. When I am not working on my research, I spend time watching movies, painting and traveling. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
